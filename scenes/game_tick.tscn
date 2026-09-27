@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dgfdxgvv7nr4f"]
+
+[ext_resource type="Script" uid="uid://bqll35ifsjrvs" path="res://src/game_tick.gd" id="1_6m6ps"]
+
+[node name="GameTick" type="Node" unique_id=393860668]
+script = ExtResource("1_6m6ps")
